@@ -16,4 +16,13 @@ Find All Secrets = {
         'Travis CI Tokens': [],
         'OAuth Access Tokens': [],
         'OAuth Refresh Tokens': []
-# Good Luck in pentest!
+        
+# Good Luck in pentest! Exclusively for educational purposes to find the secrets of crazy programmers in unsafe coding of JS scripts!
+
+# How to run:
+
+python buccaneer.py -u <URL> - single domain.
+
+python buccaneer.py -t domains.txt - multi-parser all url in file.
+
+
